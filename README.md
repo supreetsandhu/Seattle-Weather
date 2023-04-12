@@ -11,3 +11,8 @@ The other file is stl_rain.csv and this is about rain in St. Louis, MO. This dat
 -The file in the dataset that does the data preparation is DATA_3320_Seattle_St_Louis_Data_Preparation.ipynb.
 
 -The clean data file is clean_seattle_stl_weather.csv.
+
+# Data Analysis
+-The data was used from the clean_seattle_stl.csv to draw conclusions about what city has more rainy days and on the days that it rains, what city has harder rainy days such as more rainfall on those days.
+
+-The graphs that were made also compare the different months in both cities and how different months can effect how rainy the city is.
